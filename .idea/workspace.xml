@@ -913,7 +913,14 @@
       <option name="project" value="LOCAL" />
       <updated>1476158366783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spring taskScheduler test">
+      <created>1476166735532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476166735532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1004,7 +1011,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spring taskExecutor test" />
     <MESSAGE value="Spring aware test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring aware test" />
+    <MESSAGE value="Spring taskScheduler test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring taskScheduler test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1365,12 +1373,12 @@
         <state relative-caret-position="-456">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1476166702575" expanded="true" signature="59:82650" ph="..." />
-            <marker date="1476166702575" expanded="true" signature="98:191" ph="..." />
-            <marker date="1476166702575" expanded="true" signature="82576:82593" ph="..." />
-            <marker date="1476166702575" expanded="true" signature="82576:82611" ph="..." />
-            <marker date="1476166702575" expanded="true" signature="82576:82624" ph="..." />
-            <marker date="1476166702575" expanded="true" signature="82576:82639" ph="..." />
+            <marker date="1476166739176" expanded="true" signature="59:83011" ph="..." />
+            <marker date="1476166739176" expanded="true" signature="98:191" ph="..." />
+            <marker date="1476166739176" expanded="true" signature="82937:82954" ph="..." />
+            <marker date="1476166739176" expanded="true" signature="82937:82972" ph="..." />
+            <marker date="1476166739176" expanded="true" signature="82937:82985" ph="..." />
+            <marker date="1476166739176" expanded="true" signature="82937:83000" ph="..." />
           </folding>
         </state>
       </provider>
