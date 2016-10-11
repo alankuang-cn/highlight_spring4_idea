@@ -16,12 +16,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-       Properties properties =  System.getProperties();
-
-        for (int i = 0; i <properties.size() ; i++) {
-        }
-
-        System.out.println(properties.size());
+      //System.setProperty("os.name","Linux");
+        System.out.println(System.getProperty("os.name"));
 
     }
 }
